@@ -1,4 +1,4 @@
-# Личный проект «CoinCup»
+# Задания для курсы «JavaScript 1 month»
 
 
 ---
@@ -17,12 +17,6 @@ _`.gitignore`, `.git`._
 #### 2. Создайте форк
 
 Откройте репозиторий и нажмите кнопку «Fork» в правом верхнем углу. Репозиторий из Академии будет скопирован в ваш аккаунт.
-
-<img width="769" alt="Press 'Fork'" src="https://image.prntscr.com/image/sMcmKaHtRVmpHC7kNJszmg.png">
-
-Получится вот так:
-
-<img width="769" alt="Forked" src="https://image.prntscr.com/image/kFHWRM72SR_xHCqHW3qKtg.png">
 
 #### 3. Клонируйте репозиторий на свой компьютер
 

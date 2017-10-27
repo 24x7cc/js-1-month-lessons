@@ -20,6 +20,7 @@
 *.tar
 *.zip
 *.idea
+*.pages
 
 # Logs and databases #
 ######################
@@ -33,7 +34,6 @@
 .DS_Store?
 ._*
 .Spotlight-V100
-.pages
 .Trashes
 ehthumbs.db
 Thumbs.db
